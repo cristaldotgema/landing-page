@@ -53,7 +53,6 @@ body {
     body #title h1 {
       font-family: 'Roboto Condensed', sans-serif;
       font-size: 4em;
-      word-break: break-all;
       color: #fff; }
     body #title h2 {
       font-size: 2em; }

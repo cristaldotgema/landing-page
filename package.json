@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "full page landing page example",
   "main": "index.js",
-  "homepage": "https://cristaldotgema.github.io/landing_page",
+  "homepage": "https://cristaldotgema.github.io/landing-page",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
